@@ -89,3 +89,4 @@ $(document).ready(function(e) {
 bottom:
   - <link rel="stylesheet" href="https://butterfly.lete114.top/css/Lete.css">
   - <script data-pjax src="https://butterfly.lete114.top/js/Lete.js"></script>
+  - <script src='https://unpkg.com/butterfly-friend/dist/friend.min.js'></script>
