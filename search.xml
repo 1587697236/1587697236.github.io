@@ -4,9 +4,22 @@
   
     
     <entry>
+      <title>测试博客链接</title>
+      <link href="/post/d2cbfaf0.html"/>
+      <url>/post/d2cbfaf0.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试第六篇文章</title>
-      <link href="/2022/02/10/%E6%B5%8B%E8%AF%95%E7%AC%AC%E5%85%AD%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/02/10/%E6%B5%8B%E8%AF%95%E7%AC%AC%E5%85%AD%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <link href="/post/e9df37f4.html"/>
+      <url>/post/e9df37f4.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -18,8 +31,8 @@
     
     <entry>
       <title>测试第五篇文章</title>
-      <link href="/2022/02/10/%E6%B5%8B%E8%AF%95%E7%AC%AC%E4%BA%94%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/02/10/%E6%B5%8B%E8%AF%95%E7%AC%AC%E4%BA%94%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <link href="/post/5d0e6db3.html"/>
+      <url>/post/5d0e6db3.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -31,8 +44,8 @@
     
     <entry>
       <title>测试第四篇文章</title>
-      <link href="/2022/02/10/%E6%B5%8B%E8%AF%95%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/02/10/%E6%B5%8B%E8%AF%95%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <link href="/post/70b22a46.html"/>
+      <url>/post/70b22a46.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -56,8 +69,8 @@
     
     <entry>
       <title>测试第三篇文章</title>
-      <link href="/2022/02/10/%E6%B5%8B%E8%AF%95%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/02/10/%E6%B5%8B%E8%AF%95%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <link href="/post/d732de2a.html"/>
+      <url>/post/d732de2a.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -81,8 +94,8 @@
     
     <entry>
       <title>测试第二篇文章</title>
-      <link href="/2022/02/10/%E6%B5%8B%E8%AF%95%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/02/10/%E6%B5%8B%E8%AF%95%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <link href="/post/6977acaf.html"/>
+      <url>/post/6977acaf.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -106,8 +119,8 @@
     
     <entry>
       <title>【必需】页面标题</title>
-      <link href="/2022/02/09/My-New-Post/"/>
-      <url>/2022/02/09/My-New-Post/</url>
+      <link href="/post/ef154340.html"/>
+      <url>/post/ef154340.html</url>
       
         <content type="html"><![CDATA[<h1 id="121"><a href="#121" class="headerlink" title="121"></a>121</h1><p><strong>总共5个字</strong></p>]]></content>
       
