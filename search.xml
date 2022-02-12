@@ -4,45 +4,6 @@
   
     
     <entry>
-      <title>测试博客13</title>
-      <link href="/post/b8e4aa91.html"/>
-      <url>/post/b8e4aa91.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>测试博客12</title>
-      <link href="/post/cfe39a07.html"/>
-      <url>/post/cfe39a07.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>测试博客11</title>
-      <link href="/post/56eacbbd.html"/>
-      <url>/post/56eacbbd.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>测试博客10</title>
       <link href="/post/21edfb2b.html"/>
       <url>/post/21edfb2b.html</url>
@@ -82,9 +43,9 @@
     
     
     <entry>
-      <title>测试博客链接</title>
-      <link href="/post/d2cbfaf0.html"/>
-      <url>/post/d2cbfaf0.html</url>
+      <title>测试博客7</title>
+      <link href="/post/bf064b17.html"/>
+      <url>/post/bf064b17.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -95,9 +56,9 @@
     
     
     <entry>
-      <title>测试第六篇文章</title>
-      <link href="/post/e9df37f4.html"/>
-      <url>/post/e9df37f4.html</url>
+      <title>测试博客6</title>
+      <link href="/post/c8017b81.html"/>
+      <url>/post/c8017b81.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -108,9 +69,9 @@
     
     
     <entry>
-      <title>测试第五篇文章</title>
-      <link href="/post/5d0e6db3.html"/>
-      <url>/post/5d0e6db3.html</url>
+      <title>测试博客5</title>
+      <link href="/post/51082a3b.html"/>
+      <url>/post/51082a3b.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -121,61 +82,63 @@
     
     
     <entry>
-      <title>测试第四篇文章</title>
-      <link href="/post/70b22a46.html"/>
-      <url>/post/70b22a46.html</url>
+      <title>测试博客4</title>
+      <link href="/post/260f1aad.html"/>
+      <url>/post/260f1aad.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
-      <categories>
-          
-          <category> 测试 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 还是测试 </tag>
-            
-        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>测试第三篇文章</title>
-      <link href="/post/d732de2a.html"/>
-      <url>/post/d732de2a.html</url>
+      <title>测试博客3</title>
+      <link href="/post/b86b8f0e.html"/>
+      <url>/post/b86b8f0e.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
-      <categories>
-          
-          <category> Hexo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 测试博客 </tag>
-            
-        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>测试第二篇文章</title>
+      <title>测试博客2</title>
+      <link href="/post/cf6cbf98.html"/>
+      <url>/post/cf6cbf98.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试博客1</title>
+      <link href="/post/5665ee22.html"/>
+      <url>/post/5665ee22.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>博客搭建</title>
       <link href="/post/6977acaf.html"/>
       <url>/post/6977acaf.html</url>
       
-        <content type="html"><![CDATA[<h1 id="博客搭建"><a href="#博客搭建" class="headerlink" title="博客搭建"></a>博客搭建</h1><p>网上关于Hexo搭建及其主题配置的文章很多，我选的主题是<a href="https://butterfly.js.org/posts/21cfbf15/">butterfly</a>参考了</p><p>butterfly官方安装文档：<a href="https://butterfly.js.org/posts/21cfbf15/">https://butterfly.js.org/posts/21cfbf15/</a></p><p>还有这位大佬的：<a href="https://imlql.cn/post/bb283ed3.html">https://imlql.cn/post/bb283ed3.html</a></p><h1 id="了解的一些杂乱知识点"><a href="#了解的一些杂乱知识点" class="headerlink" title="了解的一些杂乱知识点"></a>了解的一些杂乱知识点</h1><h2 id="关于https和www"><a href="#关于https和www" class="headerlink" title="关于https和www"></a>关于https和www</h2><p>将http://和www.放一起比较，是没有实际意义的。</p><h3 id="一、协议"><a href="#一、协议" class="headerlink" title="一、协议"></a>一、协议</h3><p>首先对于http://，这个其实只是一种协议；<strong>简单来说，就是先声明现在使用的是哪种方式来访问服务器上的内容</strong>。而除了http之外，还有ftp、https（http加上ssl，可以理解成http加上个安全锁）等协议方式。</p><p>举个例子：网站存储在服务器上的内容并不是我们打开网站时候的样子，而是由许多文件夹、源码文件（php、asp、jsp等）等内容组成，在服务器上的呈现方式和我们打开电脑看到硬盘上的文化是一样的。</p><p>只有使用http等相关协议，才可以在浏览器上呈现出具体的图像效果。但是倘若是使用ftp协议，那么打开出来的就是像电脑上的文件了（一般网站是打不开ftp，除非管理员开放ftp，以及提供账户密码）。</p><p>再形象一点，人是由许多的细胞构成，如果使用的是ftp协议那么看到的就是一堆细胞；只有通过http协议，才能看到完整的一个人形。</p><h3 id="二、域名"><a href="#二、域名" class="headerlink" title="二、域名"></a>二、域名</h3><p>什么是域名？比如baidu 、poren .org之类。其中.com是域名后缀，类似的还有.cn（中国域名后缀）、.org（非盈利机构）、.net（网络组织）等等。部分行业还会加上稳定的后缀，比如edu.cn（教育类，xmu.edu.cn厦门大学）、gov.cn（政府单位，mod.gov.cn国防部）等等。</p><p><strong>而在这些域名中，如果加上www.（比如<a href="http://www.sina/">www.sina</a> .com），一般是指网站的主站</strong>；与之对应的比如mail.sina .com是邮箱的登录网站、news.sina .com是新浪新闻，sina.com是顶级域名，mail.sina.com这些就是<strong>二级域名</strong>。如果再往后像old.mail.sina.com就是三级域名，以此类推。但不论是几级域名，在域名的前面肯定会有http://（或者https://）。</p><p>另外大家可能发现，并不是所有的网站主站都必须加上www.的，baidu .com和<a href="http://www.baidu/">www.baidu</a> .com一样都是可以用，甚至是www8.baidu .com也可以。但是为了更好收录以及出于其他方面的考虑，一般只使用其中一个作为主站域名，另外一个就使用301跳转之类的操作。对于大型的网站比较建议是使用<a href="http://www.baidu/">www.baidu</a> .com，至于小站倒无所谓，怎么好看怎么来（比如酋长即将使用的域名就不用www，直接poren.org）。</p><p>所以总的来说，http是一种网络访问协议，网站基于这个协议来保证正常访问；www是域名组成的其中一部分（非必须），起到网站具体主机位置的作用。</p><p>最后给大家稍微讲下域名与ip。一个网站的地址其实是一个ip，比如120.77.161.212这样的形式；但是对于电话号码都记不了多少的普遍大众，记一堆ip显然更麻烦，所以就发明了方便记忆的域名来绑定ip。</p><p>这就好比家庭地址，使用家里的具体地址，显然比背经纬度更方便。</p><h2 id="域名解析"><a href="#域名解析" class="headerlink" title="域名解析"></a>域名解析</h2><h3 id="常用记录类型"><a href="#常用记录类型" class="headerlink" title="常用记录类型"></a>常用记录类型</h3><ul><li><p>A记录</p><p>添加 A 记录可实现将域名指向 IP 地址。</p></li><li><p>CNAME 记录</p><p>当需要将域名指向另一个域名，再由另一个域名提供 IP 地址，就需要添加 CNAME 记录。</p><ul><li><p>我是<a href="">zycc.xyz</a>指向<a href="">1587697236.github.io</a>，同时需要在/博客根目录/source下新建CNAME文件，填写自己的域名。</p></li><li><p>ip是你创建好github.io时提供的，可以通过ping 1587697236.github.io查看，然后用CNAME 关联自己的域名，就可以了。</p></li></ul><p><img src="https://cdn.zycc.xyz/PG$$%5D~C8ZU0K%7D%60CO080SX%29H.png"></p></li><li><p>AAAA 记录</p><p>当预期是实现访问者通过 IPv6 地址访问网站，可以使用 AAAA 记录实现。</p></li><li><p>TXT 记录</p><p>如果希望对域名进行标识和说明，可以使用 TXT 记录， TXT 记录多用来做 SPF 记录（反垃圾邮件）。</p></li></ul><h3 id="主机记录"><a href="#主机记录" class="headerlink" title="主机记录"></a>主机记录</h3><p>主机记录就是域名前缀，常见用法有：</p><ul><li><p><strong>www：</strong>解析后的域名为<a href="http://www.aliyun.com./">www.aliyun.com。</a></p></li><li><p><strong>@：</strong>直接解析主域名 aliyun.com。</p></li><li><p>*<strong>：</strong>泛解析，匹配其他所有域名 *.aliyun.com。</p></li><li><p><strong>mail：</strong>将域名解析为mail.aliyun.com，通常用于解析邮箱服务器。</p></li><li><p><strong>二级域名：</strong>如：abc.aliyun.com，填写abc。</p></li><li><p><strong>手机网站：</strong>如：m.aliyun.com，填写m。</p></li><li><p><strong>显性URL：</strong>不支持泛解析（泛解析：将所有子域名解析到同一地址）</p></li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="博客搭建"><a href="#博客搭建" class="headerlink" title="博客搭建"></a>博客搭建</h1><p>网上关于Hexo搭建及其主题配置的文章很多，我选的主题是<a href="https://butterfly.js.org/posts/21cfbf15/">butterfly</a>参考了</p><p>butterfly官方安装文档：<a href="https://butterfly.js.org/posts/21cfbf15/">https://butterfly.js.org/posts/21cfbf15/</a></p><p>还有这位大佬的：<a href="https://imlql.cn/post/bb283ed3.html">https://imlql.cn/post/bb283ed3.html</a></p><h1 id="了解的一些杂乱知识点"><a href="#了解的一些杂乱知识点" class="headerlink" title="了解的一些杂乱知识点"></a>了解的一些杂乱知识点</h1><h2 id="关于https和www"><a href="#关于https和www" class="headerlink" title="关于https和www"></a>关于https和www</h2><p>将http://和www.放一起比较，是没有实际意义的。</p><h3 id="一、协议"><a href="#一、协议" class="headerlink" title="一、协议"></a>一、协议</h3><p>首先对于http://，这个其实只是一种协议；<strong>简单来说，就是先声明现在使用的是哪种方式来访问服务器上的内容</strong>。而除了http之外，还有ftp、https（http加上ssl，可以理解成http加上个安全锁）等协议方式。</p><p>举个例子：网站存储在服务器上的内容并不是我们打开网站时候的样子，而是由许多文件夹、源码文件（php、asp、jsp等）等内容组成，在服务器上的呈现方式和我们打开电脑看到硬盘上的文化是一样的。</p><p>只有使用http等相关协议，才可以在浏览器上呈现出具体的图像效果。但是倘若是使用ftp协议，那么打开出来的就是像电脑上的文件了（一般网站是打不开ftp，除非管理员开放ftp，以及提供账户密码）。</p><p>再形象一点，人是由许多的细胞构成，如果使用的是ftp协议那么看到的就是一堆细胞；只有通过http协议，才能看到完整的一个人形。</p><h3 id="二、域名"><a href="#二、域名" class="headerlink" title="二、域名"></a>二、域名</h3><p>什么是域名？比如baidu 、poren .org之类。其中.com是域名后缀，类似的还有.cn（中国域名后缀）、.org（非盈利机构）、.net（网络组织）等等。部分行业还会加上稳定的后缀，比如edu.cn（教育类，xmu.edu.cn厦门大学）、gov.cn（政府单位，mod.gov.cn国防部）等等。</p><p><strong>而在这些域名中，如果加上www.（比如<a href="http://www.sina/">www.sina</a> .com），一般是指网站的主站</strong>；与之对应的比如mail.sina .com是邮箱的登录网站、news.sina .com是新浪新闻，sina.com是顶级域名，mail.sina.com这些就是<strong>二级域名</strong>。如果再往后像old.mail.sina.com就是三级域名，以此类推。但不论是几级域名，在域名的前面肯定会有http://（或者https://）。</p><p>另外大家可能发现，并不是所有的网站主站都必须加上www.的，baidu .com和<a href="http://www.baidu/">www.baidu</a> .com一样都是可以用，甚至是www8.baidu .com也可以。但是为了更好收录以及出于其他方面的考虑，一般只使用其中一个作为主站域名，另外一个就使用301跳转之类的操作。对于大型的网站比较建议是使用<a href="http://www.baidu/">www.baidu</a> .com，至于小站倒无所谓，怎么好看怎么来（比如酋长即将使用的域名就不用www，直接poren.org）。</p><p>所以总的来说，http是一种网络访问协议，网站基于这个协议来保证正常访问；www是域名组成的其中一部分（非必须），起到网站具体主机位置的作用。</p><p>最后给大家稍微讲下域名与ip。一个网站的地址其实是一个ip，比如120.77.161.212这样的形式；但是对于电话号码都记不了多少的普遍大众，记一堆ip显然更麻烦，所以就发明了方便记忆的域名来绑定ip。</p><p>这就好比家庭地址，使用家里的具体地址，显然比背经纬度更方便。</p><h2 id="域名解析"><a href="#域名解析" class="headerlink" title="域名解析"></a>域名解析</h2><h3 id="常用记录类型"><a href="#常用记录类型" class="headerlink" title="常用记录类型"></a>常用记录类型</h3><ul><li><p>A记录</p><p>添加 A 记录可实现将域名指向 IP 地址。</p></li><li><p>CNAME 记录</p><p>当需要将域名指向另一个域名，再由另一个域名提供 IP 地址，就需要添加 CNAME 记录。</p><ul><li><p>我是<a href="">zycc.xyz</a>指向<a href="">1587697236.github.io</a>，同时需要在/博客根目录/source下新建CNAME文件，填写自己的域名。</p></li><li><p>ip是你创建好github.io时提供的，可以通过ping 1587697236.github.io查看，然后用CNAME 关联自己的域名，就可以了。</p></li></ul><p><img src="https://cdn.zycc.xyz/prtsc1.png"></p><img src="https://cdn.zycc.xyz//ping1.png"  /></li><li><p>AAAA 记录</p><p>当预期是实现访问者通过 IPv6 地址访问网站，可以使用 AAAA 记录实现。</p></li><li><p>TXT 记录</p><p>如果希望对域名进行标识和说明，可以使用 TXT 记录， TXT 记录多用来做 SPF 记录（反垃圾邮件）。</p></li></ul><h3 id="主机记录"><a href="#主机记录" class="headerlink" title="主机记录"></a>主机记录</h3><p>主机记录就是域名前缀，常见用法有：</p><ul><li><p><strong>www：</strong>解析后的域名为<a href="http://www.aliyun.com./">www.aliyun.com。</a></p></li><li><p><strong>@：</strong>直接解析主域名 aliyun.com。</p></li><li><p>*<strong>：</strong>泛解析，匹配其他所有域名 *.aliyun.com。</p></li><li><p><strong>mail：</strong>将域名解析为mail.aliyun.com，通常用于解析邮箱服务器。</p></li><li><p><strong>二级域名：</strong>如：abc.aliyun.com，填写abc。</p></li><li><p><strong>手机网站：</strong>如：m.aliyun.com，填写m。</p></li><li><p><strong>显性URL：</strong>不支持泛解析（泛解析：将所有子域名解析到同一地址）</p></li></ul>]]></content>
       
       
       <categories>
