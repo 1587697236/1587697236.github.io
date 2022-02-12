@@ -121,13 +121,25 @@
     
     
     <entry>
-      <title>测试博客1</title>
+      <title>Git常用命令</title>
       <link href="/post/5665ee22.html"/>
       <url>/post/5665ee22.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> Git </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Git </tag>
+            
+        </tags>
       
     </entry>
     
