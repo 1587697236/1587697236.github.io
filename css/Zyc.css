@@ -32,12 +32,6 @@
 }
 
 
-/* 页脚透明 */
-#footer {
-    background: transparent !important;
-}
-
-
 /* 首页中间打字效果上方 */
 #page-header #site_title {
     color: #80bdab;
@@ -127,16 +121,18 @@ a {
 #page-header {
     background: transparent !important;
 }
-#page-header.post-bg:before {
-    position: absolute;
-    top: 0;
-    left: 0;
-    display: block;
-    width: 100%;
-    height: 100%;
-    background: transparent !important; /*这个rgba可以自己改*/
-    content: '';
+#page-header:not(.not-top-img):before {
+    background-color: transparent !important;
 }
+
+
+/* 页脚透明 */
+#footer {
+    background: transparent !important;
+}
+/* #footer:not(.not-top-img):before {
+    background-color: transparent !important;
+} */
 
 
 /*移动端优化：去除归档、标签、最新文章、公告、、只保留网站统计*/
