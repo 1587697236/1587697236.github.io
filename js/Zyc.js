@@ -4,11 +4,11 @@ var titleTime;
 document.addEventListener('visibilitychange', function() {
     if (document.hidden) {
         $('[rel="icon"]').attr('href', "/img/favicon.ico");
-        document.title = '页面404？？？！！！';
+        document.title = '页面404';
         clearTimeout(titleTime);
     } else {
         $('[rel="icon"]').attr('href', "/img/favicon.ico");
-        document.title = '(*´∇｀*) 骗你的~~' + OriginTitle;
+        document.title = '(*´∇｀*) 骗你的~~';
         titleTime = setTimeout(function() {
             document.title = OriginTitle;
         }, 2000);
